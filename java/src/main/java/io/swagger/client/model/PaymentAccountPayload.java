@@ -26,7 +26,7 @@ import java.io.IOException;
 /**
  * PaymentAccountPayload
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-09-22T16:32:41.576+02:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-09-28T16:38:11.248+02:00")
 public class PaymentAccountPayload {
   @SerializedName("paymentMethodId")
   private String paymentMethodId = null;

@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * CurrencyList
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-09-22T16:32:41.576+02:00")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-09-28T16:38:11.248+02:00")
 public class CurrencyList {
   @SerializedName("currencies")
   private List<Currency> currencies = null;

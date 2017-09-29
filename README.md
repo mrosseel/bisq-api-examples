@@ -1,5 +1,8 @@
 # bisq-api-examples
-Example usage of the bisq api
+
+Example usage of the bisq api + static API documentation.
+
+The API documentation can be found on [this repository's Github page](https://mrosseel.github.io/bisq-api-examples/)
 
 ## Generating api sources
 

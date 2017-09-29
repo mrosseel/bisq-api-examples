@@ -135,5 +135,5 @@ It's recommended to create an instance of `ApiClient` per thread in a multithrea
 
 ## Author
 
-
+Use the Bisq&#39;s project support channels
 

@@ -26,7 +26,7 @@ import java.io.IOException;
 /**
  * WalletDetails
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-09-29T09:08:19.328Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-10-04T07:34:56.649Z")
 public class WalletDetails {
   @SerializedName("available_balance")
   private String availableBalance = null;

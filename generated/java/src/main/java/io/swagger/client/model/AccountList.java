@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * AccountList
  */
-@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-09-29T09:08:19.328Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2017-10-04T07:34:56.649Z")
 public class AccountList {
   @SerializedName("accounts")
   private List<Account> accounts = null;

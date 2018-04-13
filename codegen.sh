@@ -7,4 +7,4 @@ docker run -it -v ${currdir}:/tmp swaggerapi/swagger-codegen-cli generate -i /tm
 docker run -it -v ${currdir}:/tmp swaggerapi/swagger-codegen-cli generate -i /tmp/swagger.json -l java -o /tmp/generated/java
 docker run -it -v ${currdir}:/tmp swaggerapi/swagger-codegen-cli generate -i /tmp/swagger.json -l php -o /tmp/generated/php
 docker run -it -v ${currdir}:/tmp swaggerapi/swagger-codegen-cli generate -i /tmp/swagger.json -l go -o /tmp/generated/golang
-docker run -it -v ${currdir}:/tmp swaggerapi/swagger-codegen-cli generate -i /tmp/swagger.json -l javascript -o /tmp/generated/javascript
+#docker run -it -v ${currdir}:/tmp swaggerapi/swagger-codegen-cli generate -i /tmp/swagger.json -l javascript -o /tmp/generated/javascript

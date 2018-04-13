@@ -4,9 +4,9 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**availableBalance** | **String** |  |  [optional]
-**reservedBalance** | **String** |  |  [optional]
-**lockedBalance** | **String** |  |  [optional]
+**availableBalance** | **Long** |  |  [optional]
+**reservedBalance** | **Long** |  |  [optional]
+**lockedBalance** | **Long** |  |  [optional]
 
 
 
